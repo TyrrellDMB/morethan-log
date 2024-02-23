@@ -2,13 +2,13 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "CyberAdvent",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "/CA_logo.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Cybersecurity Blog",
-    bio: "Making security more digestable.",
+    bio: "Another cybersecurity blog.",
     email: "cyberadvent.com@gmail.com",
-    linkedin: "morethanmin",
-    github: "morethanmin",
-    instagram: "",
+    linkedin: "tyrrell-brewster",
+    github: "TyrrellDMB",
+    instagram: "443TRELL",
   },
   projects: [
     {
@@ -18,8 +18,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "Cyber Advent Blog",
-    description: "Welcome to Cyber Advent",
+    title: "Cyber-Advent",
+    description: "Cyber Advent's Thoughts",
   },
 
   // CONFIG configration (required)
