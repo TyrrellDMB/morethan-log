@@ -1,7 +1,7 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "CyberAdvent",
+    name: "Tyrrell B.",
     image: "", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Cybersecurity Professional",
     bio: "BSCIA, CASP+, PJPT, SSCP",
@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `CyberAdvent`,
-      href: "https://www.youtube.com/@CyberAdvent",
+      href: "https://www.beacon.ai/443TRELL",
     },
   ],
   // blog setting (required)
