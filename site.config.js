@@ -3,8 +3,8 @@ const CONFIG = {
   profile: {
     name: "CyberAdvent",
     image: "", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "Cybersecurity Blog",
-    bio: "Another cybersecurity blog.",
+    role: "Cybersecurity Professional",
+    bio: "BSCIA, CASP+, PJPT, SSCP",
     email: "cyberadvent.com@gmail.com",
     linkedin: "tyrrell-brewster",
     github: "TyrrellDMB",
