@@ -1,7 +1,7 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "Tyrrell B.",
+    name: "Tyrrell B",
     image: "/cyberadvent_logo_black.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Cybersecurity Professional",
     bio: "BSCIA, CASP+, PJPT, SSCP",
