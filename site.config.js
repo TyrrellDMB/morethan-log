@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `CyberAdvent`,
-      href: "https://www.beacon.ai/443TRELL",
+      href: "https://www.beacons.ai/443TRELL",
     },
   ],
   // blog setting (required)
