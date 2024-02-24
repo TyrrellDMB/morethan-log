@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "Tyrrell B.",
-    image: "https://yt3.googleusercontent.com/15RDpwv8cemoXRNPkKvc3LqoAOm52YNk3slyovurRX5dPdJHq221ZD1L8OFzUUpByiHZlqtCiQ=s176-c-k-c0x00ffffff-no-rj", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "/cyberadvent logo black.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Cybersecurity Professional",
     bio: "BSCIA, CASP+, PJPT, SSCP",
     email: "cyberadvent.com@gmail.com",
