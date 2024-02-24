@@ -23,10 +23,10 @@ const CONFIG = {
   },
 
   // CONFIG configration (required)
-  link: "https://morethan-log.vercel.app",
+  link: "https://cyberadvent.vercel.app",
   since: 2022, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
-  ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
+  ogImageGenerateURL: "https://yt3.googleusercontent.com/15RDpwv8cemoXRNPkKvc3LqoAOm52YNk3slyovurRX5dPdJHq221ZD1L8OFzUUpByiHZlqtCiQ=s176-c-k-c0x00ffffff-no-rj", // The link to generate OG image, don't end with a slash
 
   // notion configuration (required)
   notionConfig: {
