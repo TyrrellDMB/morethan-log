@@ -1,25 +1,25 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "Tyrrell B.",
+    name: "Tyrrell",
     image: "/untitled.jpeg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Cybersecurity Professional",
-    bio: "BSCIA, CASP+, PJPT, SSCP",
-    email: "cyberadvent.com@gmail.com",
+    bio: "MSCIA, SecurityX, GCFE, OSCP+",
+    email: "tyrrxll@protonmail.com",
     linkedin: "tyrrell-brewster",
-    github: "TyrrellDMB",
-    instagram: "443TRELL",
+    github: "cold-biscuit",
+    instagram: "443tb",
   },
   projects: [
     {
-      name: `CyberAdvent`,
+      name: `Security-CTRL`,
       href: "https://www.beacons.ai/443TRELL",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "Cyber-Advent",
-    description: "Cyber Advent's Thoughts",
+    title: "Security-CTRL",
+    description: "Small slice of the interwebs about cybersecurity",
   },
 
   // CONFIG configration (required)
